@@ -1,0 +1,17 @@
+!!python/unicode 'casks':
+- !!python/unicode 'github-desktop'
+- !!python/unicode 'google-chrome'
+- !!python/unicode 'iterm2'
+!!python/unicode 'formulas':
+- !!python/unicode 'brew-cask'
+- !!python/unicode 'gdbm'
+- !!python/unicode 'node'
+- !!python/unicode 'openssl'
+- !!python/unicode 'pcre'
+- !!python/unicode 'readline'
+- !!python/unicode 'sqlite'
+- !!python/unicode 'subversion'
+- !!python/unicode 'tree'
+- !!python/unicode 'zsh'
+!!python/unicode 'taps':
+- !!python/unicode 'caskroom/cask'
