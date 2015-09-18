@@ -2,7 +2,10 @@
 - !!python/unicode 'alfred'
 - !!python/unicode 'github-desktop'
 - !!python/unicode 'google-chrome'
+- !!python/unicode 'google-drive'
+- !!python/unicode 'intellij-idea'
 - !!python/unicode 'iterm2'
+- !!python/unicode 'java6'
 !!python/unicode 'formulas':
 - !!python/unicode 'brew-cask'
 - !!python/unicode 'coreutils'
@@ -26,4 +29,5 @@
 - !!python/unicode 'zsh'
 !!python/unicode 'taps':
 - !!python/unicode 'caskroom/cask'
+- !!python/unicode 'caskroom/versions'
 - !!python/unicode 'homebrew/dupes'
