@@ -6,6 +6,7 @@
 - !!python/unicode 'intellij-idea'
 - !!python/unicode 'iterm2'
 - !!python/unicode 'java6'
+- !!python/unicode 'slack'
 !!python/unicode 'formulas':
 - !!python/unicode 'brew-cask'
 - !!python/unicode 'coreutils'
