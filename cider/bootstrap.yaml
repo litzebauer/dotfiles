@@ -17,6 +17,7 @@
 - !!python/unicode 'grep'
 - !!python/unicode 'moreutils'
 - !!python/unicode 'node'
+- !!python/unicode 'nvm'
 - !!python/unicode 'openssl'
 - !!python/unicode 'pcre'
 - !!python/unicode 'readline'
