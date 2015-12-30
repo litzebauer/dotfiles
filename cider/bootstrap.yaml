@@ -1,5 +1,6 @@
 !!python/unicode 'casks':
 - !!python/unicode 'alfred'
+- !!python/unicode 'atom'
 - !!python/unicode 'github-desktop'
 - !!python/unicode 'google-chrome'
 - !!python/unicode 'google-drive'
@@ -7,6 +8,7 @@
 - !!python/unicode 'iterm2'
 - !!python/unicode 'java6'
 - !!python/unicode 'slack'
+- !!python/unicode 'vlc'
 !!python/unicode 'formulas':
 - !!python/unicode 'brew-cask'
 - !!python/unicode 'coreutils'
